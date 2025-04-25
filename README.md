@@ -4,8 +4,11 @@ Might do more with this later.
 
 How to use it:
 
-`pip install requirements.txt`
-`python play.py`
+```
+pip install requirements.txt
+
+python play.py
+```
 
 This will ask you to type your moves in the terminal.
 
